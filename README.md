@@ -1,10 +1,8 @@
 This project is a local implementation of the POP3 (Post Office Protocol v3) using C++ and socket programming. It demonstrates how a mail client interacts with a POP3 server to retrieve, list, and delete emails stored locally.
 
-<<<<<<< HEAD
-(image.png)
-=======
 
->>>>>>> 8ecd0688f5fc9b3783e75853b1cbbefaf9a3d2a0
+📂 Project Structure
+![Folder Strcuture](image-1.png)
 
 ⚙️ Features
 
